@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main()
 {
-int i,n,count=0;
-printf("%d",n);
-scanf("%d",&n);
+int i,m,count=0;
+printf("%d",m);
+scanf("%d",&m);
 for(i=2;i<=n;i++)
 {
-if((n%1)==0)
+if((m%1)==0)
 count++;
 {
 printf("prime number");
